@@ -1,0 +1,5 @@
+INTERVAL	dummy [1,1|1]
+#INTERVAL	gapcost [250,300|50]
+#INTERVAL	openingcost [50,1000|50] 800
+#INTERVAL	s|struct-cost [150,250|10] 240
+#INTERVAL	t|tau-factor [0,100|10] 80

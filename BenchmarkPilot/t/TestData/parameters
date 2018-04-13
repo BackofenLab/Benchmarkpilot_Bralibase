@@ -1,0 +1,4 @@
+# Type		name [interval|stepsize] starting-value
+INTERVAL	d [0,5]
+INTERVAL	m [0,5|2] 0
+INTERVAL	i [0,5] 1

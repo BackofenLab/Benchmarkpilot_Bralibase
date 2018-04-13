@@ -1,0 +1,3 @@
+INTERVAL	q [0.2,6.4|0.4]
+INTERVAL	m|multiplier [0,5] 4
+INTERVAL	i [0,5] 1
